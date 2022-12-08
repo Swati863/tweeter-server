@@ -2,63 +2,73 @@
   "users": [
     {
       "id": 1,
-      "name": "Gertrudis Tatterton",
-      "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "full_name": "Adiana Ciciari",
+      "email": "aciciari0@loc.gov",
+      "password": "3Qk42uWa",
+      "avatar": "https://robohash.org/utundenostrum.png?size=50x50&set=set1"
     },
     {
       "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
+      "full_name": "Mickie Mc Kellen",
+      "email": "mmc1@homestead.com",
+      "password": "xLanMXv",
+      "avatar": "https://robohash.org/enimetsint.png?size=50x50&set=set1"
     },
     {
       "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "full_name": "Raffarty Boik",
+      "email": "rboik2@pagesperso-orange.fr",
+      "password": "56r78d7",
+      "avatar": "https://robohash.org/rerumdelenitivelit.png?size=50x50&set=set1"
     },
     {
       "id": 4,
-      "name": "Abran Proback",
-      "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "full_name": "Jeffy Vasilkov",
+      "email": "jvasilkov3@nydailynews.com",
+      "password": "CXX79Wc6l",
+      "avatar": "https://robohash.org/eumnihilodit.png?size=50x50&set=set1"
     },
     {
       "id": 5,
-      "name": "Roda Chappelow",
-      "age": 31,
-      "email": "rchappelow4@oaic.gov.au"
+      "full_name": "Ravi Masters",
+      "email": "rmasters4@is.gd",
+      "password": "sOxJbVqD",
+      "avatar": "https://robohash.org/accusamusvelautem.png?size=50x50&set=set1"
     },
     {
       "id": 6,
-      "name": "Karney Wylie",
-      "age": 22,
-      "email": "kwylie5@miitbeian.gov.cn"
+      "full_name": "Lindsey Gonnely",
+      "email": "lgonnely5@360.cn",
+      "password": "nLzpcdjKhNR",
+      "avatar": "https://robohash.org/abdelenitineque.png?size=50x50&set=set1"
     },
     {
       "id": 7,
-      "name": "Cammi Pimbley",
-      "age": 63,
-      "email": "cpimbley6@nyu.edu"
+      "full_name": "Amalia Teideman",
+      "email": "ateideman6@prnewswire.com",
+      "password": "ZPJ8Tp2YUm",
+      "avatar": "https://robohash.org/exfugaet.png?size=50x50&set=set1"
     },
     {
       "id": 8,
-      "name": "Gavra Manning",
-      "age": 43,
-      "email": "gmanning7@lycos.com"
+      "full_name": "Bobbie Spear",
+      "email": "bspear7@senate.gov",
+      "password": "uunaJaw",
+      "avatar": "https://robohash.org/teneturvoluptatembeatae.png?size=50x50&set=set1"
     },
     {
       "id": 9,
-      "name": "Zachary Seward",
-      "age": 45,
-      "email": "zseward8@oracle.com"
+      "full_name": "Oliviero Bramwich",
+      "email": "obramwich8@businessinsider.com",
+      "password": "yPF36ZcO",
+      "avatar": "https://robohash.org/sedquiquibusdam.png?size=50x50&set=set1"
     },
     {
       "id": 10,
-      "name": "Chucho Norssister",
-      "age": 20,
-      "email": "cnorssister9@mayoclinic.com"
+      "full_name": "Tildie Hindenberger",
+      "email": "thindenberger9@blogs.com",
+      "password": "q8VKBTgaxS",
+      "avatar": "https://robohash.org/odioiustodelectus.png?size=50x50&set=set1"
     }
   ]
 }
