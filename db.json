@@ -166,8 +166,9 @@
   ],
 
   
-  "job_data" : [
+  "job" : [
     {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQk-eeRFhbTDmgPl3rrqHuIpwDeucm6CtLNBT11Ynug&s",
       "company": "Ellette",
       "postedAt": "2021-03-30",
       "city": "Gangtok",
@@ -179,6 +180,7 @@
       "language": "Java"
     },
     {
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQk-eeRFhbTDmgPl3rrqHuIpwDeucm6CtLNBT11Ynug&s",
       "company": "Jinny",
       "postedAt": "2021-09-09",
       "city": "Ludhiana",
