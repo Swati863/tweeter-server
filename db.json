@@ -169,63 +169,63 @@
  "mock":[
   {
     "id": 1,
-    "Title of note": "Pharmacist",
-    "Description": "Struck by other mammals, initial encounter",
-    "Date": "20/10/2022"
+    "title": "Pharmacist",
+    "description": "Struck by other mammals, initial encounter",
+    "date": "20/10/2022"
   },
   {
     "id": 2,
-    "Title of note": "Editor",
-    "Description": "Unspecified open wound of left hand, subsequent encounter",
-    "Date": "28/10/2022"
+    "title": "Editor",
+    "description": "Unspecified open wound of left hand, subsequent encounter",
+    "date": "28/10/2022"
   },
   {
     "id": 3,
-    "Title of note": "Account Coordinator",
-    "Description": "Dental drugs, topically applied",
-    "Date": "14/10/2022"
+    "title": "Account Coordinator",
+    "description": "Dental drugs, topically applied",
+    "date": "14/10/2022"
   },
   {
     "id": 4,
-    "Title of note": "Assistant Professor",
-    "Description": "Unspecified appendicitis",
-    "Date": "13/04/2022"
+    "title": "Assistant Professor",
+    "description": "Unspecified appendicitis",
+    "date": "13/04/2022"
   },
   {
     "id": 5,
-    "Title of note": "General Manager",
-    "Description": "Complex regional pain syndrome I (CRPS I)",
-    "Date": "14/09/2022"
+    "title": "General Manager",
+    "description": "Complex regional pain syndrome I (CRPS I)",
+    "date": "14/09/2022"
   },
   {
     "id": 6,
-    "Title of note": "Occupational Therapist",
-    "Description": "Unspecified disorder of synovium and tendon, left hand",
-    "Date": "08/12/2022"
+    "title": "Occupational Therapist",
+    "description": "Unspecified disorder of synovium and tendon, left hand",
+    "date": "08/12/2022"
   },
   {
     "id": 7,
-    "Title of note": "Clinical Specialist",
-    "Description": "Adult sexual abuse, confirmed, subsequent encounter",
-    "Date": "18/12/2022"
+    "title": "Clinical Specialist",
+    "description": "Adult sexual abuse, confirmed, subsequent encounter",
+    "date": "18/12/2022"
   },
   {
     "id": 8,
-    "Title of note": "Junior Executive",
-    "Description": "Toxic effect of contact w oth jellyfish, accidental",
-    "Date": "15/04/2022"
+    "title": "Junior Executive",
+    "description": "Toxic effect of contact w oth jellyfish, accidental",
+    "date": "15/04/2022"
   },
   {
     "id": 9,
-    "Title of note": "Account Executive",
-    "Description": "Open bite, unspecified lower leg",
-    "Date": "09/12/2022"
+    "title": "Account Executive",
+    "description": "Open bite, unspecified lower leg",
+    "date": "09/12/2022"
   },
   {
     "id": 10,
-    "Title of note": "Business Systems Development Analyst",
-    "Description": "Laceration w/o foreign body of unsp upper arm, init encntr",
-    "Date": "10/02/2022"
+    "title": "Business Systems Development Analyst",
+    "description": "Laceration w/o foreign body of unsp upper arm, init encntr",
+    "date": "10/02/2022"
   }
   
 
